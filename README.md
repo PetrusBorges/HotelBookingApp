@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/105453766/210186095-5af3d31f-e023-444f-a9b6-e4f7cba1a662.png)
+![image](https://user-images.githubusercontent.com/105453766/211231054-9d531ecc-f26f-4af5-ba98-ce76edf653d4.png)
 
-https://user-images.githubusercontent.com/105453766/210186695-d49ccfa9-236d-4f14-96b4-8c8f10106436.mp4
+https://user-images.githubusercontent.com/105453766/211231170-90acecac-3ad5-4d90-83e4-ef622cbdb67d.mp4
 
 # HotelBookingApp 🏦
 
@@ -10,7 +10,7 @@ Repositório criado exclusivamente para treinar boas práticas em NODE.JS + REAC
 
 HotelBookingApp é um aplicativo composto por uma área de administração de agendamento de revervas acessada via tablet pelos administradores de um estabelecimento e uma área de seleção de hoteis, apartamentos e áreas de lazer disponíveis para agendamento de temporadas direcionada aos clientes do estabelecimento podendo ser acessada por smartphones. Aplicação feita em Node.js, React e React Native.
 
-![capa](https://user-images.githubusercontent.com/105453766/210186702-90325fee-6708-4968-b234-4bb76cb164f4.jpg)
+![capaa](https://user-images.githubusercontent.com/105453766/211231199-a01bc030-3c59-445e-aaa5-2add6ee06756.jpg)
 
 ## 🛠️ Feito com
 
