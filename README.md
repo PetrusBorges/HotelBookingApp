@@ -8,7 +8,7 @@ Repositório criado exclusivamente para treinar boas práticas em NODE.JS + REAC
 
 ## 📋 Projeto
 
-HotelBookingApp é um aplicativo composto por uma área de administração de agendamento de revervas acessada via tablet pelos administradores de um estabelecimento e uma área de seleção de hoteis, apartamentos e áreas de lazer disponíveis para agendamento de temporadas direcionada aos clientes do estabelecimento podendo ser acessada por smartphones. Aplicação feita em Node.js, React e React Native.
+HotelBookingApp é um aplicativo composto por uma área de administração de agendamento de reservas acessada via tablet pelos administradores de um estabelecimento e uma área de seleção de hotel, apartamentos e áreas de lazer disponíveis para agendamento de temporadas direcionadas aos clientes do estabelecimento podendo ser acessada por smartphones. Aplicação feita em Node.js, React e React Native.
 
 ![capaa](https://user-images.githubusercontent.com/105453766/211231199-a01bc030-3c59-445e-aaa5-2add6ee06756.jpg)
 
